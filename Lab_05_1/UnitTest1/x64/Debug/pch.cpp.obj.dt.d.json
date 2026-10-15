@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\політех\\алгоритмізація і програмування\\лабораторна №5\\lab_05_1\\unittest1\\pch.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\політех\\алгоритмізація і програмування\\лабораторна №5\\lab_05_1\\unittest1\\pch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
